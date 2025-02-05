@@ -1,4 +1,4 @@
-# Submit code in a codepen at codepen.io
+# JavaScript Form Validation & Error Handling
 
 ### Tasks
 
