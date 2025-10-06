@@ -1,3 +1,14 @@
+> ⚠️ Clone this repo into your `techtonica-knowledge-checks` folder and push your changes there, [see demo](https://www.dropbox.com/scl/fi/hg39hhze34487jgrae15w/Move-Knowledge-Check-into-Private-Repo.gif?rlkey=nv9b29p5rvflecqaa1ok7dwb6&st=0b9wfaup&dl=0). Be sure to add the appropriate staff contributors. Before you are able to push your changes to your new private repository you will need to "uninitialize git" repository in the __**cloned root directory**__ `rm -rf .git`. 
+> 
+> If you want to create a new private repo instead of pushing into your `techtonica-knowledge-checks` folder, you will need to then reinitialize to your new repo.
+> ```
+> git init
+> git add .
+> git commit -m "Initial commit"
+> git remote add origin <remote-repository-url>
+> git push -u origin <your-branch-name>
+> ```
+
 # JavaScript Form Validation & Error Handling
 
 ### Tasks
